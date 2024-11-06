@@ -1,7 +1,3 @@
-Here's a README for the "Chat with Database" project:
-
----
-
 # 🚀 Chat with Database 🚀
 
 ## Overview
