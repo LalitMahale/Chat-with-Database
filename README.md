@@ -46,7 +46,7 @@
 ## Usage
 1. Start the application:
    ```bash
-   python app.py
+   streamlit run app.py
    ```
 2. Type in your data queries in natural language, and the system will automatically generate and execute SQL queries, returning results in a user-friendly format.
 
