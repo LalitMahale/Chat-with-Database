@@ -39,5 +39,5 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 ## License
 This project is licensed under the MIT License.
 
-👉 **Check it out on GitHub:** [Chat with Database]([https://lnkd.in/gbjM4Sms](https://github.com/LalitMahale/Chat-with-Database)
+👉 **Check it out on GitHub:** [Chat with Database]([https://github.com/LalitMahale/Chat-with-Database])
 
