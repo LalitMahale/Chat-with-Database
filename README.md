@@ -25,6 +25,23 @@
    ```bash
    pip install -r requirements.txt
    ```
+4. **Configure Database Credentials and API Key**:
+   - Open `config.py`.
+   - Add your **database credentials** and **Gemini API key** in the format below:
+
+   ```python
+   # config.py
+   db_configuration = {
+       "USER": "your_database_user",
+       "PASSWORD": "your_database_password",
+       "PORT": "your_database_port",
+       "DB": "your_database_name",
+       "HOST": "your_database_host"
+   }
+
+   API_KEY = "your_gemini_api_key"
+   ```
+
 
 ## Usage
 1. Start the application:
