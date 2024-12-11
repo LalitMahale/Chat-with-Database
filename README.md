@@ -1,3 +1,15 @@
+---
+title: Chat With Database
+emoji: 😻
+colorFrom: red
+colorTo: purple
+sdk: streamlit
+sdk_version: 1.41.0
+app_file: app.py
+pinned: false
+license: mit
+---
+
 # 🚀 Chat with Database 🚀
 
 ## Overview
