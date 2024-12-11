@@ -1,4 +1,6 @@
 langchain-google-genai
+langchain-community
+langchain-core
 streamlit
 python-dotenv
 pandas
